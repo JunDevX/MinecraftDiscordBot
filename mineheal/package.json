@@ -1,0 +1,19 @@
+{
+  "name": "aternos-status-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Discord-бот: статус Aternos-сервера каждые 10 минут + опциональный бот-игрок с уведомлениями о достижениях",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "mineflayer": "^4.23.0",
+    "minecraft-server-util": "^5.4.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
