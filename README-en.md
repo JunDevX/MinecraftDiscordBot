@@ -32,6 +32,12 @@ MC_VERSION=version of your MC server
 # Your Discord bot’s token (Discord Developer Portal -> Bot -> Token)
 DISCORD_TOKEN=Discord BOT Token
 ```
+3.4 On your BOT
+```
+# Включить ли бота-игрока (mineflayer), который заходит на сервер
+# и следит за достижениями в чате. true / false
+ENABLE_MC_BOT=Change from "false" in "true"
+```
 4. Next, run the following in the terminal
 ```Bash
 npm start
