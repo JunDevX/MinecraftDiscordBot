@@ -1,4 +1,7 @@
-# MinecraftDiscordBot
+<p align="center">
+  <img src="https://github.com/JunDevX/MinecraftDiscordBot/blob/main/mdb.png" width="300" alt="MDB">
+</p>
+
 ### Русский [English](https://github.com/JunDevX/MinecraftDiscordBot/blob/main/README-en.md)
 # Как использовать?
 1. Установите ZIP из корня репозитория или из релизов
